@@ -1,0 +1,32 @@
+body{
+    background-color: cyan; 
+    font-family:'Gill Sans', 'Gill Sans M T', Calibri, 'Trebuchet MS', sans-serif
+    }
+body{
+    background-color: #8b04c0;
+    color: rgb(0, 0, 255);
+    background-image: url("nin64.gif");
+
+}
+    th{
+        background-color: rgb(122, 72, 72);
+    }
+
+    table{
+        background-color: rgb(150, 230, 154);
+    }
+
+    .tabla{
+       width: 50%; height: center;
+    margin-left: 365px;
+    }
+    img{
+        margin-left: 15px;
+    }
+
+td{
+    font-family: 'PW Extended', sans-serif;
+    font-size: 15px;
+    color: rgb(182, 28, 28);
+    text-align: center;
+}
